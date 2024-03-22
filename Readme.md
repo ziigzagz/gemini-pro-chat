@@ -21,7 +21,7 @@ Follow these steps to get the project up and running:
    Run the following command to create a shallow clone of the repository:
 
    ```sh
-   git clone --depth 1 https://github.com/Xeven777/gemini-chat.git
+   git clone --depth 1 https://github.com/ziigzagz/gemini-pro-chat.git
    ```
 
    This will create a new directory named `gemini-chat` in your current directory.
